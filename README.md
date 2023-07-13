@@ -11,7 +11,7 @@
 
 • Utilizing the LSTM model, a powerful recurrent neural network,trained it on a comprehensive historical stock’s dataset to analyze temporal dependencies& trends. Employed preprocessing techniques, such as normalization, scaling, and handling missing values, we optimized the model’s performance and improved prediction accuracy.
 
-##Outcome
+## Outcome
 • Imputed missing values in the dataset & predicted its future values using forecasting techniques ARIMA/ARMA. 
 
 • Achieve consistent single-digit Mean Square Error (MSE) in predicting the stock’s closing price & directional accuracy of 100%, which provide valuable insights to improve investment strategies & financial planning.
