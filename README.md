@@ -3,8 +3,9 @@
 
 
 ## Objective
-• Utilizing historical Air Pollution dataset, impute missing values in it & forecast its future data trends. 
-• Develop a ML model to accurately predict the closing price of a stock, enabling informed investment decisions.
+1. Utilizing historical Air Pollution dataset, impute missing values in it & forecast its future data trends.
+  
+2. Develop a ML model to accurately predict the closing price of a stock, enabling informed investment decisions.
 
 ## Approach
 • Plotted the multi-variate time-series data and applied diverse techniques like interpolation, ffill/bfill, and ARMA/ARIMA for missing value imputation. Plot the the graph to show explicitly the filled missing values.
